@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshgupta1210&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Harshgupta1210&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -74,14 +74,18 @@
 
 ---
 
-## 📈 Contribution Graph
+## 🔝 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshgupta1210&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshgupta1210&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
+## 📌 Featured Repositories
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Harshgupta1210&icon=0&color=0" />
+  <a href="https://github.com/Harshgupta1210/REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshgupta1210&repo=REPO_NAME&theme=tokyonight" />
+  </a>
 </p>
